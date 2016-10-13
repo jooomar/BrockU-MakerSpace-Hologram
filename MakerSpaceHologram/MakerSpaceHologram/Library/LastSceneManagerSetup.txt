@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MakerSpaceHologram.unity
+  isLoaded: 1
+  isActive: 1
